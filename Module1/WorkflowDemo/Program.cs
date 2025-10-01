@@ -13,8 +13,7 @@ namespace WorkflowDemo
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, World!");
-            Console.WriteLine("Connection terminated. I'm sorry to interrupt you Elizabeth," +
-                " if you even still remember that name.");
+            Console.WriteLine("Connection terminated. I'm sorry to interrupt you Elizabeth,\nif you even still remember that name.");
         }
     }
 }
